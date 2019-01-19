@@ -1,0 +1,55 @@
+			@font-face {
+				font-family: 'wendy-light';
+				font-style: normal;
+				src: url('/cucaff/wp-content/uploads/useanyfont/160229044129Wendy-Light.eot');
+				src: local('wendy-light'), url('/cucaff/wp-content/uploads/useanyfont/160229044129Wendy-Light.eot') format('embedded-opentype'), url('/cucaff/wp-content/uploads/useanyfont/160229044129Wendy-Light.woff') format('woff');
+			}
+            
+            .wendy-light{font-family: 'wendy-light' !important;}
+            
+					@font-face {
+				font-family: 'wendy-bold';
+				font-style: normal;
+				src: url('/cucaff/wp-content/uploads/useanyfont/160229053208Wendy-Bold.eot');
+				src: local('wendy-bold'), url('/cucaff/wp-content/uploads/useanyfont/160229053208Wendy-Bold.eot') format('embedded-opentype'), url('/cucaff/wp-content/uploads/useanyfont/160229053208Wendy-Bold.woff') format('woff');
+			}
+            
+            .wendy-bold{font-family: 'wendy-bold' !important;}
+            
+					@font-face {
+				font-family: 'wendy-medium';
+				font-style: normal;
+				src: url('/cucaff/wp-content/uploads/useanyfont/160229053231Wendy-Medium.eot');
+				src: local('wendy-medium'), url('/cucaff/wp-content/uploads/useanyfont/160229053231Wendy-Medium.eot') format('embedded-opentype'), url('/cucaff/wp-content/uploads/useanyfont/160229053231Wendy-Medium.woff') format('woff');
+			}
+            
+            .wendy-medium{font-family: 'wendy-medium' !important;}
+            
+					@font-face {
+				font-family: 'antan';
+				font-style: normal;
+				src: url('/cucaff/wp-content/uploads/useanyfont/160302061809Antan.eot');
+				src: local('antan'), url('/cucaff/wp-content/uploads/useanyfont/160302061809Antan.eot') format('embedded-opentype'), url('/cucaff/wp-content/uploads/useanyfont/160302061809Antan.woff') format('woff');
+			}
+            
+            .antan{font-family: 'antan' !important;}
+            
+					@font-face {
+				font-family: 'vera-serif';
+				font-style: normal;
+				src: url('/cucaff/wp-content/uploads/useanyfont/171122120313vera-serif.eot');
+				src: local('vera-serif'), url('/cucaff/wp-content/uploads/useanyfont/171122120313vera-serif.eot') format('embedded-opentype'), url('/cucaff/wp-content/uploads/useanyfont/171122120313vera-serif.woff') format('woff');
+			}
+            
+            .vera-serif{font-family: 'vera-serif' !important;}
+            
+					@font-face {
+				font-family: 'vera-serif-bold';
+				font-style: normal;
+				src: url('/cucaff/wp-content/uploads/useanyfont/171122120417vera-serif-bold.eot');
+				src: local('vera-serif-bold'), url('/cucaff/wp-content/uploads/useanyfont/171122120417vera-serif-bold.eot') format('embedded-opentype'), url('/cucaff/wp-content/uploads/useanyfont/171122120417vera-serif-bold.woff') format('woff');
+			}
+            
+            .vera-serif-bold{font-family: 'vera-serif-bold' !important;}
+            
+		

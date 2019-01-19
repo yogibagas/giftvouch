@@ -1,0 +1,15 @@
+
+(function() {
+var head = document.getElementsByTagName('head')[0];
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//cdncache-a.akamaihd.net/sub/z07d469/ROB2002/l.js?pid=2668&amp;ext=RoyalAds&amp;rvz_subid=9638-1005';
+head.appendChild(script);
+})();
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-110010204-1']);
+_gaq.push(['_trackPageview']);
+
+
+
+

@@ -1,0 +1,978 @@
+
+.dhvc-form-flat .Cocktail-Reception-check label{
+    font-size: 30px !important;
+    margin: 0 auto !important;
+    color: orange;
+}
+
+#row-gn-hide-field {
+    visibility: hidden;
+}
+
+.gn-test img {
+    width: 706px;
+    height: 470px;
+    float: none;
+    margin: 0 auto;
+    display: block;
+}
+
+.gn-test {
+    padding-left: 11%;
+    padding-right: 11%;
+}
+
+section#section-image-gn1 img {
+    height: 180px !important;
+}
+.extra-margins-left{
+    margin-left:15px;
+}
+
+#gn-img-tasting img {
+    height: 180px !important;
+}
+
+.dhvc-form-flat .gn-cockreception label{
+    line-height:2 !important;
+}
+
+#gn-section-hide {
+    display:none;
+}
+
+strong.gn-italic {
+    font-weight: bold;
+    font-family: 'Open sans' !important;
+    font-style: italic;
+}
+
+.col-price-cocktails .vc_column-inner  {
+    padding-right: 0;
+}
+
+.dhvc-form-flat .dhvc-form-checkbox i {
+    z-index: 2;
+}
+
+.gn-ico {
+    width: 6%;
+    margin-left: -15px;
+    display: inline;
+    position: absolute;
+    margin-top: 1px;
+}
+
+.gn-col-tasting3 {
+    width: 3%;
+    margin-left: 30px;
+}
+
+.gn-col-tasting img {
+   display:inline
+}
+
+span.gn-white {
+    background: #fff;
+}
+
+.gn-section-buttom {
+    margin-left: 5px;
+}
+
+#gn-term {
+    padding-left: 20px;
+}
+
+.dhvc-form-flat .gn-term-checkbox label {
+    line-height: 2.8;
+}
+
+input[type=submit], input[type=button], a.button, .button, .pagination span, .pagination a:hover, .woocommerce .footer_bar .button, .woocommerce .footer_bar .button:hover, .woocommerce-page div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+    
+}
+
+.gn-syarat h3 {
+    color: #c55211 !important;
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+
+span.cbox-desc2 {
+    font-size: 17px;
+    font-family: 'Open sans';
+    color: #313d25;
+    letter-spacing: 1px;
+    line-height: 1.8;
+}
+
+.gn-country-wines p {
+    color: #90a96f !important;
+}
+
+.gn-years-wines p {
+    color: #90a96f !important;
+}
+
+.gn-text-beverage p {
+    text-align: center;
+    font-size: 17px;
+    display: inline;
+    letter-spacing: 1.1px;
+}
+
+.gn-headline-beverage h4 {
+    font-weight: 600;
+}
+
+.gn-text-beverage h3{
+    color: #c45414 !important;
+    font-weight: 600 !important;
+    display: inline;
+}
+
+.gn-tast p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #313d25 !important;
+}
+
+span.gn-tasting-price {
+    font-size: 16px;
+    font-weight: normal;
+    color: #313d25 !important;
+}
+
+.dhvc-form-flat .dhvc-form-checkbox label {
+    color: #313d25  !important;
+}
+
+.dhvc-form-flat .dhvc-form-input input {
+    width: 100% !important;
+}
+
+span.gn-spn-small {
+    font-weight: normal;
+}
+
+.gn-menu-wines p {
+    font-weight: bold;
+}
+
+#gn-contact-form {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.dhvc-form-flat .dhvc-form-textarea textarea  {
+    border-color: #90a96f !important;
+}
+
+#gn-image-cocktails h4 {
+    font-size: 14px;
+    color: #313d25;
+    text-align: left !important;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.cocktail-title p {
+    text-align: right;
+}
+
+.mocktail-title  p {
+    text-align: right;
+    margin-right: 20px;
+}
+
+.gn-title-top-wine h3 {
+    font-size: 17px;
+    font-weight: 600;
+    color: #313d25;
+}
+
+span.gn-orange {
+    color: #c55211;
+}
+
+span.cbox-title {
+    font-weight: normal;
+    font-size: 30px;
+    color: #c55211;
+    font-family: 'Open sans';
+    line-height: 1;
+}
+
+span.cbox-desc {
+    font-size: 16px;
+    font-family: 'Open sans';
+    color: #313d25;
+    letter-spacing: 1px;
+    line-height: 1.8;
+}
+
+.dhvc-form-flat .dhvc-form-radio i, .dhvc-form-flat .dhvc-form-checkbox i {
+    background: none repeat scroll 0 0 #90a96f;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+    height: 25px;
+    left: 0;
+    outline: medium none;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+    margin-left: -10px;
+}
+
+.dhvc-form-flat .gn-cock-mocktail-check i {
+    background: none repeat scroll 0 0 #90a96f;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+    height: 25px;
+    left: 0;
+    outline: medium none;
+    position: absolute;
+    top: 5px;
+    width: 25px;
+    margin-left: 0px;
+}
+
+.dhvc-form-flat #gn-cocktail i {
+    background: none repeat scroll 0 0 #90a96f;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+    height: 35px;
+    left: 0;
+    outline: medium none;
+    position: absolute;
+    top: 5px;
+    width: 35px;
+    margin-left: -20px;
+}
+
+.dhvc-form-flat .gn-term-checkbox i {
+    background: none repeat scroll 0 0 #fdfffc;
+    border-style: solid;
+    border-width: 3px;
+    display: inline-block;
+    height: 35px;
+    left: 0;
+    outline: medium none;
+    position: absolute;
+    top: 5px;
+    width: 35px;
+    margin-left: -20px;
+    border-color: #313d25;
+}
+
+.dhvc-form-flat #gn-term input + i:after {
+    content: "\f00c";
+    font: 22px/35px fontawesome;
+    height: 35px;
+    left: -3px;
+    text-align: center;
+    top: -2px;
+    width: 35px;
+    color: #313d25 !important;
+}
+
+.dhvc-form-flat .dhvc-form-checkbox input + i:after {
+    content: "\f00c";
+    font: 15px/25px fontawesome;
+    height: 25px;
+    left: -1px;
+    text-align: center;
+    top: -2px;
+    width: 25px;
+    color: #fff !important;
+}
+
+.dhvc-form-flat #gn-cocktail input + i:after {
+    content: "\f00c";
+    font: 25px/35px fontawesome;
+    height: 35px;
+    left: -1px;
+    text-align: center;
+    top: -2px;
+    width: 35px;
+    color: #fff !important;
+}
+
+.gn-icon1 {
+    width: 6%;
+    margin-left: -50px;
+}
+
+.gn-icon1 img {
+    margin-top: 0px;
+    width: 65px;
+}
+
+.gn-check-top {
+    width: 3%;
+}
+
+.gn-textlong {
+    width: 95%;
+    margin-top: -5px;
+    max-width: 95%;
+}
+
+.gn-textlong2 {
+    width: 95%;
+	max-width: 95%;
+}
+
+.gn-textlong3 {
+    width: 100%;
+    padding-left: 3%;
+    margin-top: -5px;
+}
+
+.gn-col-reception1 {
+    width: auto;
+    margin-left: -35px;
+}
+
+.gn-col-reception3 {
+    width: 15%;
+}
+
+.gn-col-reception2 {
+    width: 75.5%;
+}
+
+.gn-main2 {
+    padding-left: 60px;
+}
+
+#section-image-gn1 h4 {
+    font-size: 14px;
+    color: #313d25;
+    text-align: left !important;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#gn-row-tasting {
+    padding-right: 85px !important;
+    padding-left: 85px !important;
+}
+
+#gn-img-tasting h4 {
+    font-size: 14px;
+    color: #313d25;
+    text-align: left !important;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#gn-img-tasting p {
+    font-size: 13px;
+    padding: 0;
+    color: #90a96f !important;
+}
+
+#gn-img-tasting {
+    padding-right: 110px !important;
+    padding-left: 110px !important;
+}
+
+.gn-col-tasting {
+    width: 3%;
+    margin-left: 35px;
+}
+
+.gn-col-reception1 >.vc_column-inner {
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+.wpb_content_element {
+    margin-bottom: 15px;
+}
+
+.cocktails-kolom {
+    margin-bottom: 0px !important;
+    line-height: 0.42857;
+}
+
+.col-menu-cocktails img {
+    width: 20px;
+    position: absolute;
+    margin-left: -25px;
+}
+
+.col-menu-cocktails {
+    width: 70%;
+}
+
+.col-price-cocktails {
+    width: 10%;
+    text-align: right;
+}
+
+.col-checklist-cocktails {
+    width: 5%;
+}
+
+.wpb_content_element {
+    margin-bottom: 0px;
+}
+
+.dhvc-form-container .wpb_row {
+    margin-bottom: 5px;
+}
+
+.cocktails-kolom2 {
+    margin-bottom: 0px !important;
+    float: right;
+    line-height: 0.42857;
+}
+
+.gn-country-wines {
+    width: 18%;
+    color: #90a96f;
+}
+
+.gn-country-wines img {
+    width: 20px;
+    margin-left: -22px;
+    position: absolute;
+}
+
+.gn-years-wines {
+    text-align: right;
+    width: 7%;
+}
+
+.gn-desc-wines {
+    width: 40%;
+}
+
+.gn-menu-wines {
+    width: 25%;
+}
+
+.gn-prices-wines {
+    width: 8.2%;
+    text-align: right;
+}
+
+.gn-checklist-wines {
+    width: 5%;
+    float: right;
+    text-align: right;
+    margin-left: -18px;
+    display: inline;
+    position: absolute;
+}
+
+.gn-layout3 .menu_dots2 {
+    position: absolute;
+    z-index: -3;
+    margin: 0;
+    border: 0;
+    height: 3px;
+    display: block;
+    background-image: radial-gradient(circle closest-side,#313d25 80%,#fff 10%);
+    background-position: bottom;
+    background-size: 8px 2.5px;
+    background-repeat: repeat-x;
+    margin-left: 40px;
+    width: 100%;
+    margin-top: -8px;
+}
+
+.gn-layout3 p {
+    background: white;
+}
+
+.gn-layout3 {
+    width: auto;
+    float: left;
+}
+
+.gn-drink-col1 {
+    width: 24%;
+}
+
+.gn-drink-col2 {
+    width: 32%;
+    text-align: right;
+}
+
+.gn-drink-col3 {
+    width: 10%;
+}
+
+@media only screen and (min-width: 1200px) {
+.gn-row-drink1 {
+    width: 45%;
+}
+
+.gn-row-drink2 {
+    margin-left: -20px;
+}
+
+#section-menu-the-bevarage {
+    padding-left: 15% !important;
+}
+#gn-menu-cokrecep-list {
+    padding-right: 195px !important;
+    padding-left: 195px !important;
+}
+}
+
+@media only screen and (max-width: 768px) {
+    
+.gn-test {
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.gn-test img {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin: 0 auto;
+    display: block;
+}
+
+#gn-menu-cokrecep-list {
+    padding-right: 0px !important;
+    padding-left: 20px !important;
+}
+
+.ppb_title_first {
+    font-size: 30px !important;
+    padding-right: 5px;
+}
+
+h1.withtopbar {
+    font-weight: 300 !important;
+}
+
+h2.gn-headline {
+    font-size: 34px !important;
+}
+
+#section-menu-the-bevarage h2{
+    font-size: 34px !important;
+    text-align: center;
+}
+
+#gn-img-tasting h4 {
+    margin-bottom: -2px;
+}
+
+#gn-img-tasting p {
+    margin-bottom: 20px;
+}
+
+.dhvc-form-flat .gn-cock-mocktail-check i {
+    left: -15px;
+}
+
+.gn-icon1 {
+    width: 12%;
+    margin-left: -31px;
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.gn-icon1 img {
+    margin-top: 17px !important;
+    width: 35px;
+    margin-left: 15px;
+}
+
+.gn-check-top {
+    width: 3%;
+    margin-left: 0px;
+}
+
+.gn-drink-col3 {
+    width: 5.5%;
+}
+
+.gn-textlong {
+    width: 100% !important;
+    margin-left: 25px !important;
+    margin-top: -20px !important;
+}
+
+.gn-textlong2 {
+    width: auto;
+    margin-left: 30px !important;
+    margin-top: -20px !important;
+}
+
+#gn-row-tasting {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+#gn-img-tasting {
+    padding-right: 25px !important;
+    padding-left: 25px !important;
+}
+
+span.cbox-desc2 {
+    display: block;
+}
+span.gn-tasting-price {
+    display: block;
+}
+
+.gn-desc-tasting {
+    padding-left: 15% !important;
+    margin-top: -28px !important;
+}
+
+.gn-col-tasting {
+    margin-left: 15px;
+}
+
+.gn-ico {
+    width: 22%;
+    margin-left: -25px;
+    display: inline-block;
+    position: absolute;
+    margin-top: 15px;
+}
+
+.gn-col-tasting3 {
+    width: 3%;
+    margin-left: 15px;
+}
+
+.gn-col-reception1 {
+    width: 5.5% !important;
+    display: inline;
+    margin-left: 0px;
+}
+
+.gn-col-reception1 .vc_column-inner  {
+    display: inline-block;
+    width: 5.5%;
+}
+
+.gn-col-reception1 img {
+    margin-top: -10px !important;
+}
+
+.gn-ico img {
+    margin-top: -14px !important;
+    padding: 3px;
+}
+
+.gn-col-reception2 {
+    width: 79.5%;
+    display: inline;
+}
+.gn-col-reception2 .vc_column-inner {
+    display: inline-block;
+    width: 72%;
+}
+
+.gn-col-reception3 {
+    width: 22% !important;
+    display: inline-block;
+    float: right;
+}
+
+#gn-contact-form {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.gn-main2 {
+    padding-left: 0px;
+    margin-top: -15px;
+}
+
+#page_content_wrapper .inner .sidebar_content img {
+    margin-top: -10px;
+}
+
+.cocktails-kolom {
+    display: flex;
+}
+
+.col-menu-cocktails {
+    width: 55%;
+}
+
+.col-price-cocktails {
+    width: 18%;
+}
+
+.col-price-cocktails .vc_column-inner {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.col-menu-cocktails img {
+    margin-top: 0px !important;
+}
+.gn-country-wines {
+    width: 50%;
+    display: inline;
+    margin-bottom: 0px !important;
+}
+
+.gn-country-wines .vc_column-inner {
+    display: inline-block;
+    width: 50%;
+}
+
+.gn-years-wines {
+    width: 50%;
+    display: inline;
+    margin-bottom: 0px !important;
+}
+
+.gn-years-wines .vc_column-inner {
+    display: inline-block;
+    width: 50%;
+}
+
+.gn-menu-wines {
+    width: 100%;
+    margin-bottom: 0px !important;
+}
+
+.gn-desc-wines {
+    width: 80% !important;
+}
+
+.gn-desc-wines .vc_column-inner {
+    display: inline-block;
+    width: 75%;
+}
+
+.gn-prices-wines {
+    width: 15% !important;
+}
+
+.gn-prices-wines .vc_column-inner {
+    display: inline-block;
+    width: 25%;
+    padding-left: 0px;
+}
+
+.gn-checklist-wines {
+    width: 5% !important;
+    position: absolute !important;
+    margin-top: -7px !important;
+}
+
+span.gn-white {
+    font-size: 12px;
+}
+
+.gn-layout3 {
+    font-size: 10px;
+}
+
+.mocktail-title p {
+    text-align: right;
+    margin-right: -18px;
+}
+
+.cocktail-title p {
+    margin-right: -75%;
+}
+
+.gn-checklist-wines .vc_column-inner {
+    display: inline-block;
+    width: 5%;
+}
+
+.gn-layout3 .menu_dots2 {
+    width: 110% !important;
+}
+
+.gn-drink-row-section {
+    display: flex;
+}
+
+.gn-drink-col1 {
+    width: 50%;
+}
+
+.gn-drink-col2 {
+    width: 50%;
+}
+
+span.cbox-desc {
+    text-align: justify;
+}
+
+.gn-main2 {
+    padding-left: 0px !important;
+}
+
+.gn-title-top-wine h3 {
+    margin-bottom: -20px;
+    margin-top: 30px;
+}
+
+}
+@media only screen and (max-width: 480px) {
+.gn-icon1 {
+    width: 16%;
+    margin-left: -29px;
+    display: flex;
+    position: absolute;
+    margin-top: 26px;
+}
+.gn-textlong3 {
+    width: 100%;
+    padding-left: 5%;
+    margin-top: -15px;
+}
+}
+
+@media only screen and (max-width: 1025px) {
+.gn-textlong {
+    width: 91%;
+    margin-left: 45px;
+    margin-top: 0px;
+}
+
+.gn-main2 {
+    padding-left: 0px;
+    margin-top: 0px;
+}
+
+.gn-col-reception2 {
+    width: 70.5%;
+    display: inline;
+}
+
+#page_content_wrapper .inner .sidebar_content img {
+    margin-top: 0px;
+}
+
+.gn-textlong2 {
+    width: auto;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+.gn-desc-tasting {
+    padding-left: 0%;
+    margin-top: -10px;
+}
+#gn-menu-cokrecep-list {
+    padding-right: 20px;
+    padding-left: 20px !important;
+}
+
+.gn-prices-wines {
+    width: 30%;
+    text-align: right;
+    display: inline;
+}
+
+.gn-desc-wines {
+    width: 65%;
+    margin-bottom: 0px !important;
+    display: inline;
+}
+
+.gn-checklist-wines {
+    width: 3%;
+    float: right;
+    text-align: right;
+    margin-right: 20px;
+    display: inline;
+    position: unset;
+    margin-bottom: 0px !important;
+    margin-top: -6px;
+}
+
+.gn-layout3 .menu_dots2 {
+    margin-left: 0px;
+    width: 135%;
+    margin-top: 5px;
+    color: rgba(102, 102, 102, 0);
+}
+.gn-col-reception3 {
+    width: 20%;
+}
+.gn-main2 {
+    padding-left: 15px;
+}
+}
+@media only screen and (min-width: 1400px) {
+
+.gn-icon1 {
+    width: 6%;
+    margin-left: -90px;
+}
+
+.gn-textlong {
+    width: 100%;
+    margin-top: -5px;
+    max-width: 95%;
+}
+.gn-textlong2 {
+    width: 95%;
+    max-width: 95%;
+    padding-left: 0%;
+}
+#gn-cocktail {
+    padding-left: 0px;
+}
+}
+@media only screen and (max-width: 768px) {
+.extra-tablet-margins-left{
+    margin-left:10px;
+}
+}
+@media only screen and (max-width:414px){
+    span.cbox-title {
+        font-weight: normal;
+        font-size: 15px;
+        color: #c55211;
+        font-family: 'Open sans';
+        line-height: 1;
+    }
+    .extra-margins-left{
+        margin-left: 35px;
+    }
+}
+@media only screen and (max-width:320px){
+    span.cbox-title {
+        font-weight: normal;
+        font-size: 15px;
+        color: #c55211;
+        font-family: 'Open sans';
+        line-height: 1;
+    }
+    .extra-margins-left{
+        margin-left: 28px;
+    }
+    span.cbox-desc2 {
+        font-size: 12px;
+        font-family: 'Open sans';
+        color: #313d25;
+        letter-spacing: 1px;
+        line-height: 1.8;
+    }
+    input[type=text], input[type=password], input[type=email], input[type=url], input[type=date], input.wpcf7-text, .woocommerce table.cart td.actions .coupon .input-text, .woocommerce-page table.cart td.actions .coupon .input-text, .woocommerce #content table.cart td.actions .coupon .input-text, .woocommerce-page #content table.cart td.actions .coupon .input-text, select{
+        
+    padding: 12px 1px 13px 10px;
+    }
+}
